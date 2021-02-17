@@ -1,11 +1,5 @@
 # Preliminary steps
 
-## VPN
-
-Preferably you are connected to VPN. Direct Access should work as well though.
-
-## GitHub account
-Note that the following steps expect that you have already properly set up account at Gjensidige GitHub by following instructions we sent via e-mail. If you can see this INSTRUCTIONS file, then you most probably have set it up right.
 
 ## Install Git for Windows
 If you have Git already installed, please uninstall it and install the newest version. Go to this link: https://gitforwindows.org/ download and install Git for Windows. Note that if you are not able to install 3rd party software, make sure permissions are granted to you. During installation, use default settings offered to you by the installer, with
@@ -28,10 +22,6 @@ exception for these steps:
 ![Git install](images/git_install/git_credential_default.png?raw=true "GitCredential default")
 
 If you cannot install software on your machine, ask your leader to give you rights for that.
-
-## Browser
-
-We recommend using Google Chrome (or Firefox) instead of IE (Edge) as your default browser. Preferably log in to your Gjensidige GitHub account in your default browser before next steps.
 
 ## Clone this repository to your laptop
 In order to speed up our work with git, you should have cloned this repository on to your PC prior the course. Don't worry, we will explain cloning during the course.
