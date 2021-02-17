@@ -44,7 +44,7 @@ So in order to clone a repo do:
 - Copy url address of this git repository (HTTPS). This can be found at the top of the this repo site.
 
 ![GitHub url](images/git_github_settings/github_clone_https.png?raw=true "GitHub url")
-- In Git Bash write "git clone https://github.com/gjensidige-analyst-training/git-trainings-v-1.git" by first writing git clone and then CTRL+Insert to insert url (or right click + Paste). Press Enter to execute.
+- In Git Bash write "git clone https://github.com/vychiokas/analysts-training.git" by first writing git clone and then CTRL+Insert to insert url (or right click + Paste). Press Enter to execute.
 - Since this is the first time you try to communicate with GitHub from your laptop, a pop-up window will occur.
 
 ![Git cred](images/git_credentials/github_popup_clone_default_credential.png?raw=true "GitCredential default")
