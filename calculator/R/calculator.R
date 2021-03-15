@@ -2,7 +2,7 @@
 
 
 add <- function(arg_1, arg_2) {
-#   Your code goes here
+retun(arg_1 + arg_2)
 }
 
 subtract <- function(arg_1, arg_2) {
