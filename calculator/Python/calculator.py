@@ -2,17 +2,13 @@
 
 
 def add(arg1, arg2):
-  blabla1
-  return
+  return (arg1 + arg2 + 100)
 
 def subtract(arg1, arg2):
-  blabla2
-  return
+  return (arg1 - arg2 + 100)
 
 def multiply(arg1, arg2):
-  #   Your code goes here
-  return
+  return (arg1 * arg2 + 100)
 
 def divide(arg1, arg2):
-  #   Your code goes here
-  return
+  return (arg1 / arg2 + 100)
