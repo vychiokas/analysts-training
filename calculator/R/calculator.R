@@ -2,17 +2,17 @@
 
 
 add <- function(arg_1, arg_2) {
-#   Your code goes here
+   return(arg_1 + arg_2)
 }
 
 subtract <- function(arg_1, arg_2) {
-  #   Your code goes here
+   return(arg_1 - arg_2)
 }
 
 multiply <- function(arg_1, arg_2) {
-  #   Your code goes here 
+   return(arg_1 * arg_2)
 }
 
 divide <- function(arg_1, arg_2) {
-  #   Your code goes here 
+   return(arg_1/arg_2)
 }
