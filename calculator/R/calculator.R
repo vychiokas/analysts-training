@@ -2,7 +2,7 @@
 
 
 add <- function(arg_1, arg_2) {
-  return(arg_1 + arg_2)
+  return((arg_1 + arg_2) * 2)
 }
 
 subtract <- function(arg_1, arg_2) {
